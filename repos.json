@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "R85G-KernelSU",
+      "repo": "https://github.com/realme-kernel-opensource/realme_8-5G_8S-5G_9-5G_9i-5G_Narzo50-5G_Narzo30-5G_V13_Q3i_realme10_mt6833-AndroidT-kernel-source",
+      "branch": "Realme",
+      "device": "R85G"
     },
     "withKernelSU": true,
     "toolchains": [
