@@ -8,13 +8,13 @@
     "withKernelSU": true,
     "toolchains": [
       {
-        "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
-        "branch": "master",
-        "name": "gas"
+        "repo": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/",
+        "branch": "android-13.0.0_r0.130",
+        "name": "gcc"
       },
       {
-        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/",
+        "branch": "android13-release",
         "name": "clang"
       }
     ],
