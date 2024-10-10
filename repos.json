@@ -3,7 +3,7 @@
       "name": "cyllene",
       "repo": "https://github.com/Remon98/android_kernel_realme_mt6833",
       "branch": "android-13.0",
-      "device": "R85G"
+      "device": "Realme_8_5G"
     },
     "withKernelSU": true,
     "toolchains": [
