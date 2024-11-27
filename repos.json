@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "cyllene_defconfig",
+      "name": "cyllene",
       "repo": "https://github.com/Remon98/android_kernel_realme_mt6833",
       "branch": "android-13.0",
-      "device": "Realme 8 5G"
+      "device": "cyllene_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
