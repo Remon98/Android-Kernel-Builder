@@ -1,20 +1,20 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "remon_r85g",
+      "repo": "https://github.com/Remon98/android_kernel_realme_mt6833",
+      "branch": "android-13.0",
+      "device": "Realme_8_5G"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
-        "branch": "master",
-        "name": "gas"
+        "repo": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9",
+        "branch": "android-msm-redbull-4.19-android13",
+        "name": "gcc"
       },
       {
-        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "repo": "https://github.com/kdrag0n/proton-clang",
+        "branch": "master",
         "name": "clang"
       }
     ],
