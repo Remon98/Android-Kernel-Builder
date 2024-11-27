@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "remon_r85g",
+      "name": "cyllene_defconfig",
       "repo": "https://github.com/Remon98/android_kernel_realme_mt6833",
       "branch": "android-13.0",
-      "device": "Realme_8_5G"
+      "device": "Realme 8 5G"
     },
     "withKernelSU": false,
     "toolchains": [
