@@ -3,7 +3,7 @@
       "name": "Gs-kernel",
       "repo": "https://github.com/gs-bluraviole/android_kernel_google_gs101",
       "branch": "android-15-qpr1-beta-3_r0.5",
-      "device": "gs101_defconfig"
+      "device": "gs101"
     },
     "withKernelSU": false,
     "toolchains": [
