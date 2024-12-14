@@ -1,15 +1,15 @@
 [  {
     "kernelSource": {
-      "name": "cyllene",
-      "repo": "https://github.com/Remon98/android_kernel_realme_mt6833",
-      "branch": "android-13.0",
-      "device": "cyllene_defconfig"
+      "name": "Gs-kernel",
+      "repo": "https://github.com/gs-bluraviole/android_kernel_google_gs101",
+      "branch": "android-15-qpr1-beta-3_r0.5",
+      "device": "gs101_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9",
-        "branch": "android-msm-redbull-4.19-android13",
+        "branch": "main",
         "name": "gcc"
       },
       {
